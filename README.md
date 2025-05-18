@@ -1,6 +1,9 @@
 # you'd like this book
 you'd like this book is a web app that suggests book recommendations based on a title you input. The app uses TF-IDF and cosine similarity to find similar books based on its summary.
 
+<img src="https://github.com/kittenspow/youd-like-this-book/blob/e0179981f22414b381514d04ce8cb418a30187dd/picture_1" alt="image alt" width="500">    <img src="https://github.com/kittenspow/youd-like-this-book/blob/e0179981f22414b381514d04ce8cb418a30187dd/picture_2" alt="image alt" width="500">
+
+
 ## Tech Stack
 Frontend: ReactJS, TailwindCSS
 
