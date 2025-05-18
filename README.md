@@ -9,6 +9,11 @@ Frontend: ReactJS, TailwindCSS
 
 Backend: Flask (python)
 
+## Dataset
+CMU Book Summary Dataset on Kaggle
+
+https://www.kaggle.com/datasets/ymaricar/cmu-book-summary-dataset/data
+
 ## Installation
 Prerequisites:
 1. Node.js and npm
